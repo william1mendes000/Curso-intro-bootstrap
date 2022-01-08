@@ -1,0 +1,74 @@
+@import url('https://fonts.googleapis.com/css2?family=Rubik:wght@300&display=swap');
+
+section#quemsomos {
+	font-family: 'Rubik', sans-serif;
+
+}
+
+.navbar {
+	background-color: #171717;
+
+	}
+
+.nav-link {
+	font-family: 'Rubik', sans-serif;
+	font-size: 30px;
+	margin-top: 500px;
+}
+
+a#menu {
+	color: white;
+}
+
+img#william {
+	width: 600px;
+	height: 100%;
+}
+
+img#sobre {
+	width: 600px;
+	height: 550px;
+	border-radius: 50px 0px 50px 0px;
+}
+
+h3 {
+	margin-top: 30px;
+	font-family: 'Rubik', sans-serif;
+	font-size: 50px;
+}
+
+p {
+	text-align: center;
+}
+
+.logo {
+	width: 100px;
+	margin-top: 50px;
+}
+
+.skills {
+	width: 200px;
+	height: 200px;
+	margin-top: 50px;
+}
+
+.java {
+	width: 300px;
+	height: 245px;
+	padding-top: 30px;
+}
+
+.boot {
+	width: 350px;
+	height: 350px;
+}
+
+section {
+	height: 100%;
+	width: 100%;
+}
+
+footer {
+	color: #171717;
+
+}
